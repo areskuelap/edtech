@@ -7,12 +7,12 @@ const WritingHard = () => {
 
 	const questions = [
 		{
-			questionText: '',
-			answer: ""
+			questionText: 'Some say that learning about the past has no value for those of us living in the present. Do you agree or disagree? Why? Give specific reasons for your answer.',
+			answer: "As the famous old tale saying “Only buy using history as a mirror, can reflect the prosperity and replacement of a country”, this is a very macro perspective in country’s level. As for personal view, learning from history can help summarize the lessons learned, avoid traps and make faster progress. Take mys experience as an example, I was a working rookie one year ago, often making mistakes in my job. But I am good at summarizing experience and forming my own working pattern, so now I am a middle manager in the company and lead a four people team. Why I promote to a higher place in a so short time? It is not only because of I am a good thinker, but also I am very open-minded to learn from my seniors at work which help me stand on the shoulders of the giants. If we want to get a success before we get too old,there is a shortcut:learning from your predecessors,no matter the successful experience and failure lessons, thinking deeply and forming your own particular tackling things methods."
 		},
     		{
-			questionText: '',
-			answer: ""
+			questionText: 'Many people feel compelled to check their cellphones very frequently throughout the day. Describe some of the possible consequences of this behavior.',
+			answer: "It is common to view the habit of constantly checking one's mobile phone as a negative or even obsessive-compulsive behavior. There are several reasons for this. One reason is the proliferation of short video apps, such as TikTok and Instagram, which are designed to be highly engaging and addictive. Many people become dependent on these apps and spend a significant amount of time scrolling through them. Another reason is the reliance on social media for communication and connection. People may spend hours chatting on WhatsApp or other platforms, even when in the presence of friends, in an effort to stay connected and informed. However, this constant need for information and connection can be detrimental, as it can interfere with work and study, leading to a decline in productivity and focus. In the long term, mobile phone obsessive-compulsive disorder can have serious consequences, such as destroying healthy study habits and leading to a sense of aimlessness."
 		},
 		{
 			questionText: '',
