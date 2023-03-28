@@ -15,8 +15,8 @@ const WritingHard = () => {
 			answer: "It is common to view the habit of constantly checking one's mobile phone as a negative or even obsessive-compulsive behavior. There are several reasons for this. One reason is the proliferation of short video apps, such as TikTok and Instagram, which are designed to be highly engaging and addictive. Many people become dependent on these apps and spend a significant amount of time scrolling through them. Another reason is the reliance on social media for communication and connection. People may spend hours chatting on WhatsApp or other platforms, even when in the presence of friends, in an effort to stay connected and informed. However, this constant need for information and connection can be detrimental, as it can interfere with work and study, leading to a decline in productivity and focus. In the long term, mobile phone obsessive-compulsive disorder can have serious consequences, such as destroying healthy study habits and leading to a sense of aimlessness."
 		},
 		{
-			questionText: '',
-			answer: ""
+			questionText: 'Discuss the impact of social media on political discourse. How has social media changed political discourse? What are some positive and negative effects of social media on political discourse?',
+			answer: "Social media has had a significant impact on political discourse, changing the way we receive and engage with political information. It has made political information more accessible and has provided new platforms for political expression and engagement. However, social media has also led to concerns around misinformation, polarization, and echo chambers. It is important to promote responsible use of social media in political discourse and to ensure that individuals have access to accurate and diverse sources of political information."
 		},
 		{
 			questionText: '',
