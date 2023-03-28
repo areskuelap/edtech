@@ -135,8 +135,8 @@ const WritingEasy = () => {
 			answer: "A time when I worked really hard for something was during my last board exam. It was my graduating exam from school and therefore had a lot of value to it. Besides, every board exam is very important in a student’s life. And since the knowledge I had gained for this exam had implications in my exams for university admission, the pressure was even higher. Therefore, I had to make a routine for my studies, stick to it with discipline, and work hard day and night to ensure I was preparing well for the exam. I’m thankful that the hard work later paid off."
 		},
 		{
-			questionText: '',
-			answer: ""
+			questionText: 'escribe your favorite childhood memory and how it has influenced you as an adult.',
+			answer: "My favorite childhood memory is when my family and I went camping in the mountains. We spent the days hiking, fishing, and exploring nature. As an adult, this memory has influenced my love for the outdoors and my appreciation for nature. It has also taught me the value of spending quality time with family and friends."
 		},
     {
 			questionText: '',
